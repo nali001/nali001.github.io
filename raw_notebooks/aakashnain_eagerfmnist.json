@@ -1,0 +1,19 @@
+{
+  "id": "aakashnain/eagerfmnist",
+  "id_no": 634876,
+  "title": "EagerFMNIST",
+  "code_file": "eagerfmnist.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "games"
+  ],
+  "dataset_sources": [
+    "datasets/zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

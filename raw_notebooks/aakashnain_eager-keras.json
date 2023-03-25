@@ -1,0 +1,20 @@
+{
+  "id": "aakashnain/eager-keras",
+  "id_no": 927980,
+  "title": "Eager&Keras",
+  "code_file": "eager-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [
+    "datasets/slothkong/10-monkey-species",
+    "datasets/keras/vgg16"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

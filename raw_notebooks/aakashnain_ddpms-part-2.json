@@ -1,0 +1,21 @@
+{
+  "id": "aakashnain/ddpms-part-2",
+  "id_no": 30101243,
+  "title": "DDPMs - Part 2",
+  "code_file": "ddpms-part-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "computer vision",
+    "intermediate",
+    "research",
+    "advanced",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": []
+}

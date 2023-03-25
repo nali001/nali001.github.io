@@ -1,0 +1,19 @@
+{
+  "id": "aakashnain/denoising-autoencoders-to-the-rescue",
+  "id_no": 598219,
+  "title": "Denoising: Autoencoders to the rescue!!",
+  "code_file": "denoising-autoencoders-to-the-rescue.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "games"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/denoising-dirty-documents"
+  ]
+}

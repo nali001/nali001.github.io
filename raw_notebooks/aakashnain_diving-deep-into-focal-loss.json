@@ -1,0 +1,23 @@
+{
+  "id": "aakashnain/diving-deep-into-focal-loss",
+  "id_no": 2958841,
+  "title": "Diving deep into focal loss",
+  "code_file": "diving-deep-into-focal-loss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "advanced",
+    "classification",
+    "deep learning",
+    "healthcare",
+    "transfer learning"
+  ],
+  "dataset_sources": [
+    "datasets/paultimothymooney/chest-xray-pneumonia"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}
